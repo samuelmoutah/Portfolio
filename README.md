@@ -1,12 +1,7 @@
-# Dinesh Pandiyan
+# Sungjin Mo
 
-This repo holds my **Dev Landing Page**, a one stop shop to everything I do online. 🎉
+This repo holds my **Portfolio page**.
 
-`master` branch has the deploy files. The source code is in `dev` branch [here](https://github.com/flexdinesh/flexdinesh.github.io/tree/dev).
+`master` branch has the deploy files. 
 
-## License
-
-MIT © Dinesh Pandiyan# landing
-# Portfolio
-# Portfolio
 # Portfolio
