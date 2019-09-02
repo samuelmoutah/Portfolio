@@ -25,15 +25,18 @@ const AboutPage = (props, context) => {
         <div className="about-wrapper">
           <div className="about-content" style={{ color: textPrimary }}>
             <p>
-              I like <span className="highlight">JavaScript</span> and
-              Front End stuff.
+              I love problem solving and I dedicate myself to figuring out how to make things better. 
             </p>
-            
+            <p>
+              I am passionate about technology, especially <span className="highlight">React</span> and <span className="highlight">JavaScript</span>. I prefer front-end development, though I am experienced in back-end development. 
+            </p>
+            <p>
+              I am also experienced with Node.js, Typescript, C#, Java, and HTML/CSS, and have exposure to many other languages and frameworks from spending much of my free time researching and studying in these and other areas. 
+            </p>
+
+
             <p>
               This site is built in with <span className="highlight">React</span> from scratch and I had so much fun along the way.
-            </p>
-            <p>
-              React-Redux, JavaScript, NodeJs, Express, CSS, Flexbox are the main tricks up my sleeve.
             </p>
           </div>
         </div>
