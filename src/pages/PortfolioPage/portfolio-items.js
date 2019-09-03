@@ -20,7 +20,29 @@ export default [{
       </div>
     </div>
   )
-}, {
+},
+{
+  name: 'brain-storming',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        BrainStorming
+      </div>
+      <div className='portfolio-item__desc'>
+        BrainStorming app built with TypeScript
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-js"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://brainstorminghelper.netlify.com">Live</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/BrainStorming">More</a>
+      </div>
+    </div>
+  )
+},
+{
   name: 'todo-list',
   render: (
     <div className='portfolio-item'>
