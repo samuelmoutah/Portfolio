@@ -62,4 +62,25 @@ export default [{
       </div>
     </div>
   )
+},
+{
+  name: 'neighborhood-map',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        Neighborhood Map
+      </div>
+      <div className='portfolio-item__desc'>
+        Simple Restaurant location map in my neighborhood built with React
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-js"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://myneighborhoodmap.netlify.com">Live</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/NeighborhoodMap">More</a>
+      </div>
+    </div>
+  )
 }]
