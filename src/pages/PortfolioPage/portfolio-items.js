@@ -57,7 +57,7 @@ export default [
         <i className="fab fa-js"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://samuelmoutah.github.io/Momentum/">Live</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://momentum-app.netlify.com/">Live</a>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/Momentum">More</a>
       </div>
     </div>
