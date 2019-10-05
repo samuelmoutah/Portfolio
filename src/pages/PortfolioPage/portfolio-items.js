@@ -1,26 +1,27 @@
 import React from 'react';
 
-export default [{
-  name: 'Movie App',
-  render: (
-    <div className='portfolio-item'>
-      <div className='portfolio-item__title'>
-        Simple Scoreboard
-      </div>
-      <div className='portfolio-item__desc'>
-         Movie app
-      </div>
-      <div className='portfolio-item__icon'>
-        <i className="fab fa-react"></i>
-        <i className="fab fa-js"></i>
-      </div>
-      <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://scoreboardreact.netlify.com/">Live</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/Scoreboard">More</a>
-      </div>
-    </div>
-  )
-},
+export default [
+//   {
+//   name: 'Movie App',
+//   render: (
+//     <div className='portfolio-item'>
+//       <div className='portfolio-item__title'>
+//         Simple Scoreboard
+//       </div>
+//       <div className='portfolio-item__desc'>
+//          Movie app
+//       </div>
+//       <div className='portfolio-item__icon'>
+//         <i className="fab fa-react"></i>
+//         <i className="fab fa-js"></i>
+//       </div>
+//       <div className='portfolio-item__links'>
+//         <a target="_blank" rel="noopener noreferrer" href="https://scoreboardreact.netlify.com/">Live</a>
+//         <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/Scoreboard">More</a>
+//       </div>
+//     </div>
+//   )
+// },
 {
   name: 'brain-storming',
   render: (
