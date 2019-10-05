@@ -1,14 +1,14 @@
 import React from 'react';
 
 export default [{
-  name: 'scoreboard',
+  name: 'Movie App',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
         Simple Scoreboard
       </div>
       <div className='portfolio-item__desc'>
-         Simple scoreboard app built with React
+         Movie app
       </div>
       <div className='portfolio-item__icon'>
         <i className="fab fa-react"></i>
@@ -43,22 +43,21 @@ export default [{
   )
 },
 {
-  name: 'todo-list',
+  name: 'momentum',
   render: (
     <div className='portfolio-item'>
       <div className='portfolio-item__title'>
-        Simple Todo-List
+        Momentum App
       </div>
       <div className='portfolio-item__desc'>
-        Simple Todo-List app built with React
+        Momentum clone app built with JavaScript
       </div>
       <div className='portfolio-item__icon'>
-        <i className="fab fa-react"></i>
         <i className="fab fa-js"></i>
       </div>
       <div className='portfolio-item__links'>
-        <a target="_blank" rel="noopener noreferrer" href="https://samstodolist.netlify.com">Live</a>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/Todo-List">More</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://samuelmoutah.github.io/Momentum/">Live</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/Momentum">More</a>
       </div>
     </div>
   )
