@@ -45,16 +45,16 @@ const AboutPage = (props, context) => {
           <div className="about-content" style={{ color: textPrimary }}>
               <h3><b><i>Web Development Intern @ The Church of Jesus Christ of LDS</i></b></h3>
               
-                  <p>Developed and maintained <a target="_blank" href="https://www.josephsmithpapers.org/"><b>Joseph Smith Paper website</b></a> for Church History team using ReactJS, Flexbox, Handlebars as frontend developer.</p>
-                  <p>Fixed Zoom In/Out functionality for the images and maps in the site, directly contributing to launch site quickly.</p>
-                  <p>Finished the most tasks which is one of the highest among interns.</p>
+                  <p>Contributed to maintaining, developing and launching <a target="_blank" href="https://www.josephsmithpapers.org/"><b>Joseph Smith Paper website</b></a> using React, SASS and Handlebars.</p>
+                  <p>Took ownership of fixing bugs such as Zoom In/Out feature.</p>
+                  <p>Led in completing sprint tasks among the interns.</p>
                 
               <br />
               <h3><b><i>Web Development Intern @ GWAZOO</i></b></h3>
             
-                  <p>Developed e-commerce website in startup environment.</p>
-                  <p>Worked on functionality for uploading products to database via excel file with validating inputs, providing warning and error messages, preview of products, and editing interface.</p>
-                  <p>Worked on creating custom template and functions for Magento based e-commerce platform. Mostly worked with MySQL, PHP, Laravel Bootstrap and Git.</p>
+                  <p>Developed e-commerce website using Larabel, PHP and MySQL.</p>
+                  <p>Contributed to engineering an API that consumes excel files with built in validation and error handling.</p>
+                  <p>Built custom Magento templates for previewing and editing products using Bootstrap.</p>
               <br />
               <h3><b><i>Technical Support Engineer @ SAMSUNG SDS</i></b></h3>
             
