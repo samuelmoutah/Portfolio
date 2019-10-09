@@ -1,27 +1,27 @@
 import React from 'react';
 
 export default [
-//   {
-//   name: 'Movie App',
-//   render: (
-//     <div className='portfolio-item'>
-//       <div className='portfolio-item__title'>
-//         Simple Scoreboard
-//       </div>
-//       <div className='portfolio-item__desc'>
-//          Movie app
-//       </div>
-//       <div className='portfolio-item__icon'>
-//         <i className="fab fa-react"></i>
-//         <i className="fab fa-js"></i>
-//       </div>
-//       <div className='portfolio-item__links'>
-//         <a target="_blank" rel="noopener noreferrer" href="https://scoreboardreact.netlify.com/">Live</a>
-//         <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/Scoreboard">More</a>
-//       </div>
-//     </div>
-//   )
-// },
+  {
+  name: 'Netflix-Clone App',
+  render: (
+    <div className='portfolio-item'>
+      <div className='portfolio-item__title'>
+        Netflix App
+      </div>
+      <div className='portfolio-item__desc'>
+        Netflix clone app built with ReactJS
+      </div>
+      <div className='portfolio-item__icon'>
+        <i className="fab fa-react"></i>
+        <i className="fab fa-js"></i>
+      </div>
+      <div className='portfolio-item__links'>
+        <a target="_blank" rel="noopener noreferrer" href="https://samuelmoutah.github.io/movie_app_2019/">Live</a>
+        <a target="_blank" rel="noopener noreferrer" href="https://github.com/samuelmoutah/movie_app_2019">More</a>
+      </div>
+    </div>
+  )
+},
 {
   name: 'brain-storming',
   render: (
